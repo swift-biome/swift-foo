@@ -5,3 +5,9 @@ public
 enum Permanent
 {
 }
+
+/// This symbol should only appear in version `0.2.0`.
+public 
+enum Foo 
+{
+}
